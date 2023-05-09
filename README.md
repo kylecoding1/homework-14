@@ -50,4 +50,8 @@ Passport
 Express-session
 Connect-flash
 
-Project Links:
+## Project Links:
+
+Github repository link : https://github.com/kylecoding1/homework-14
+
+Deployed Application link: https://kylecoding1.github.io/homework-14/
